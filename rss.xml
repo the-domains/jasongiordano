@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[JasonGiordano]]></title>
         <description><![CDATA[JasonGiordano]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jasongiordano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 18:52:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 30 Oct 2015 20:01:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jasongiordano/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid Wedding Photography ]]></title>
             <description><![CDATA[<article><h1>The Grid Wedding Photography </h1><p>Jason Giordano award winning wedding photography Clifton NJ</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38fac8ac-9ca3-4e32-ada0-151c4e1ce70e.jpg"></article>]]></description>
-            <link>undefinedthe-grid-wedding-photography/index.html</link>
+            <link>https://thegrid.ai/jasongiordano/the-grid-wedding-photography/index.html</link>
             <guid isPermaLink="false">527862ff-7d12-41d1-918f-94b427061f70</guid>
             <pubDate>Fri, 30 Oct 2015 18:51:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2035071f-bd0c-44fc-9dc1-dc548eecac71.jpg">]]></description>
+            <link>https://thegrid.ai/jasongiordano/8abf2d41-dd4c-4ba5-8283-64c2ffa84096/index.html</link>
+            <guid isPermaLink="false">8abf2d41-dd4c-4ba5-8283-64c2ffa84096</guid>
+            <pubDate>Fri, 30 Oct 2015 20:00:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
