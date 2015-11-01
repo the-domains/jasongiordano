@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[JasonGiordano]]></title>
-        <description><![CDATA[JasonGiordano]]></description>
-        <link>https://thegrid.ai/jasongiordano/</link>
+        <title><![CDATA[JasonGiordanoWeddingPhotography]]></title>
+        <description><![CDATA[JasonGiordanoWeddingPhotography]]></description>
+        <link>https://thegrid.ai/jasongiordanoweddingphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 Nov 2015 17:30:54 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/jasongiordano/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 Nov 2015 17:31:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jasongiordanoweddingphotography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid Wedding Photography ]]></title>
             <description><![CDATA[<article><h1>The Grid Wedding Photography </h1><p>Jason Giordano award winning wedding photography Clifton NJ</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38fac8ac-9ca3-4e32-ada0-151c4e1ce70e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jasongiordano/the-grid-wedding-photography/index.html</link>
+            <link>https://thegrid.ai/jasongiordanoweddingphotography/527862ff-7d12-41d1-918f-94b427061f70/index.html</link>
             <guid isPermaLink="false">527862ff-7d12-41d1-918f-94b427061f70</guid>
-            <pubDate>Fri, 30 Oct 2015 18:51:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2035071f-bd0c-44fc-9dc1-dc548eecac71.jpg">]]></description>
-            <link>https://thegrid.ai/jasongiordano/8abf2d41-dd4c-4ba5-8283-64c2ffa84096/index.html</link>
-            <guid isPermaLink="false">8abf2d41-dd4c-4ba5-8283-64c2ffa84096</guid>
-            <pubDate>Fri, 30 Oct 2015 20:00:17 GMT</pubDate>
+            <pubDate>Fri, 30 Oct 2015 19:58:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
